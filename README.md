@@ -7,4 +7,4 @@ My python learning journey .
 - projects made while leaning
 
 ## TOPICS COVERED (will keep updating)
-DAY1-Print functions,Input functions,variables and project 1(band name generator)
+- DAY1-Print functions,Input functions,variables and project 1(band name generator)
