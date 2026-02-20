@@ -8,4 +8,4 @@ My python learning journey .
 
 ## TOPICS COVERED (will keep updating)
 - DAY1-Print functions,Input functions,variables and project 1(band name generator)
-- DAY2-Data types,Len function,Different operators,f-string and made a tip calculator
+- DAY2-Data types,len function,Different operators,f-string and made a tip calculator
